@@ -1,2 +1,6 @@
 *.swp
 uart/output/*
+*.o
+*.elf
+f7_*
+*.hex
